@@ -1,0 +1,8 @@
+.danger{
+  background-color: rgb(255, 0, 0);
+  color: rgb(141, 17, 17);
+}
+.success{
+  background-color: rgb(147, 207, 147);
+  color: rgb(52, 94, 52);
+}
